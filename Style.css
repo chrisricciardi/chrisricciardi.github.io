@@ -1,0 +1,26 @@
+/*CSS doc*/
+/*To change background color need to say 'background' but to change the text color just put 'color'*/
+
+body{
+	background-color:blue;
+}
+
+body h1{
+	color:yellow;
+}
+
+body p{
+	color:white;
+}
+
+img{
+	max-width:100%;/*max width allows responsive imagery. Never bigger than it should be*/
+	width:575px; /*starts the width*/
+}
+
+div p{
+	color:red;
+	font-size: 150% 
+}
+
+	
